@@ -26,6 +26,7 @@ Repositório com os projetos audiovisuais desenvolvidos pelo profissional João 
 
 <h2>Encartes para redes sociais </h2>
 
+<a href="https://github.com/vitorcardoso98/Producoes_Audiovisual/blob/main/Projetos%20para%20redes%20sociais.pdf">Catálogo com os projetos mais recentes</h2>
 
 
 
